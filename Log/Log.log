@@ -1,0 +1,9 @@
+[2017-02-19 22:02:11,070] [ERROR] - br.com.gam.dataBase.dao.DataBase {connect} linha 151 | Excecao: null Classe nÃ£o encontrada. Erro: oracle.jdbc.driver.OracleDriver
+[2017-02-19 22:03:26,115] [ERROR] - br.com.gam.dataBase.dao.DataBase {connect} linha 151 | Excecao: null Classe nÃ£o encontrada. Erro: oracle.jdbc.driver.OracleDriver
+[2017-02-19 22:03:38,364] [ERROR] - br.com.gam.dataBase.dao.DataBase {connect} linha 151 | Excecao: null Classe nÃ£o encontrada. Erro: oracle.jdbc.driver.OracleDriver
+[2017-02-19 22:04:35,591] [ERROR] - br.com.gam.dataBase.dao.DataBase {connect} linha 151 | Excecao: null Classe nÃ£o encontrada. Erro: oracle.jdbc.driver.OracleDriver
+[2017-02-19 22:04:35,597] [ERROR] - br.com.gam.dataBase.dao.DataBase {connect} linha 151 | Excecao: null Classe nÃ£o encontrada. Erro: oracle.jdbc.driver.OracleDriver
+[2017-02-19 22:05:01,029] [ERROR] - br.com.gam.dataBase.dao.DataBase {connect} linha 151 | Excecao: null Classe nÃ£o encontrada. Erro: oracle.jdbc.driver.OracleDriver
+[2017-02-19 23:36:47,590] [ERROR] - br.com.gam.dataBase.dao.DataBase {connect} linha 151 | Excecao: null Classe nÃ£o encontrada. Erro: oracle.jdbc.driver.OracleDriver
+[2017-02-19 23:36:52,763] [ERROR] - br.com.gam.dataBase.dao.DataBase {connect} linha 151 | Excecao: null Classe nÃ£o encontrada. Erro: oracle.jdbc.driver.OracleDriver
+[2017-02-19 23:37:52,910] [ERROR] - br.com.gam.dataBase.dao.DataBase {connect} linha 151 | Excecao: null Classe nÃ£o encontrada. Erro: oracle.jdbc.driver.OracleDriver
